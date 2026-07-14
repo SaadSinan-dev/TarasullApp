@@ -258,14 +258,7 @@ flutter run
 
 ---
 
-## 👤 Author
 
-**Your Name**
-*Flutter Developer*
-
-[GitHub](#) • [LinkedIn](#) • [Portfolio](#)
-
----
 
 <div align="center">
 
